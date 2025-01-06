@@ -1,8 +1,32 @@
 import React from "react";
-import { CgWorkAlt } from "react-icons/cg";
+
 import { FaReact } from "react-icons/fa";
-import { LuGraduationCap } from "react-icons/lu";
-import { CPP, PythonLight, PythonDark, JavaDark, JavaLight, HTML, CSS, JavaScript, ReactLight, ReactDark, NodeJSLight, NodeJSDark, ExpressJSLight, ExpressJSDark, NestJSLight, NextJSLight, NextJSDark, Git, TailwindCSSLight, TailwindCSSDark, MongoDB, MySQLLight, MySQLDark, Bootstrap } from "@fdorantesm/react-skill-icons";
+
+import { CPP } from "@/public/Images/CPP";
+import { PythonLight } from "@/public/Images/PythonLight";
+import { PythonDark } from "@/public/Images/PythonDark";
+import JavaDark from "@/public/Images/JavaDark.png";
+import JavaLight from "@/public/Images/JavaLight.png";
+import HTML from "@/public/Images/HTML.png";
+import CSS from "@/public/Images/CSS.png";
+import JavaScript from "@/public/Images/JavaScript.png";
+import ReactLight from "@/public/Images/ReactLight.png";
+import ReactDark from "@/public/Images/ReactDark.png";
+import NodeJSLight from "@/public/Images/NodeJSLight.png";
+import NodeJSDark from "@/public/Images/NodeJSDark.png";
+import ExpressJSLight from "@/public/Images/ExpressJSLight.png";
+import ExpressJSDark from "@/public/Images/ExpressJSDark.png";
+import NextJSLight from "@/public/Images/NextJSLight.png";
+import NextJSDark from "@/public/Images/NextJSDark.png";
+import Git from "@/public/Images/Git.png";
+import TailwindCSSLight from "@/public/Images/TailwindCSSLight.png";
+import TailwindCSSDark from "@/public/Images/TailwindCSSDark.png";
+import MongoDB from "@/public/Images/MongoDB.png";
+import MySQLLight from "@/public/Images/MySQLLight.png";
+import MySQLDark from "@/public/Images/MySQLDark.png";
+import Bootstrap from "@/public/Images/Bootstrap.png";
+
+//import {  JavaDark, JavaLight, HTML, CSS, JavaScript, ReactLight, ReactDark, NodeJSLight, NodeJSDark, ExpressJSLight, ExpressJSDark, NestJSLight, NextJSLight, NextJSDark, Git, TailwindCSSLight, TailwindCSSDark, MongoDB, MySQLLight, MySQLDark, Bootstrap } from "@fdorantesm/react-skill-icons";
 
 import money_trackerImg from "@/public/money_tracker.png";
 import blogImg from "@/public/blog.png";
