@@ -20,7 +20,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I'm a 3rd Year Student at{" "}
+        I'm a Final Year Student at{" "}
         <span className="font-medium">
           Dayananda Sagar College of Engineering
         </span>
